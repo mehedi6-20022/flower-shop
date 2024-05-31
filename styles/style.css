@@ -324,3 +324,40 @@ header{
     color: #e55473;
 }
 /* find & order now  */
+
+/* footer secton style  */
+
+.footer-container{
+    height: 400px;
+    width: 100vw;
+    background-color: #111010;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.footer-logo{
+    font-size: 48px;
+    font-weight: 800;
+    color: #ffffff;
+    margin-bottom: 24px;
+}
+.footer-text-color{
+    color: #e55473
+}
+.footer-description{
+    color: rgba(255, 255, 255, 0.9);
+    font-size: 18px;
+    width: 500px;
+    margin: 0 auto;
+}
+.copyright{
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.4);
+    margin-top: 32px;
+}
+.copyright a{
+    text-decoration: none;
+    color: #1dd1a1;
+}
+/* footer secton style  */
